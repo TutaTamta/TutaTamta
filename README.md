@@ -1,7 +1,7 @@
 ![Mmm](header.png)
 #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=0C2B39&background=FFBEBE24&center=true&vCenter=true&random=false&width=700&lines=Once+upon+a+time+I+wanted+to+understand+what+was+going+on....)](https://git.io/typing-svg)
 ![image](https://github.com/TutaTamta/TutaTamta/assets/81257954/d004f22c-ee9a-41ea-82ea-f3aeb2ca3969)
-<p><href = "https://github.com/TutaTamta"><img src="https://github.com/TutaTamta/TutaTamta/assets/81257954/80db8639-54f3-4fdd-a270-8606bc2ae2a8" width=50% height=50%></p>
+<a href = "https://github.com/TutaTamta"><img src="https://github.com/TutaTamta/TutaTamta/assets/81257954/80db8639-54f3-4fdd-a270-8606bc2ae2a8" width=50% height=50%></a>
 
 > [!NOTE]
 > ~~Why am I here?~~
