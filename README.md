@@ -1,5 +1,5 @@
 ![Mmm](header.png)
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=0C2B39&background=FFBEBE24&center=true&vCenter=true&random=false&width=700&lines=Once+upon+a+time+I+wanted+to+understand+what+was+going+on....)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=0C2B39&background=FFBEBE24&center=true&vCenter=true&random=false&width=700&lines=Once+upon+a+time+I+wanted+to+understand+what+was+going+on....)](https://github.com/TutaTamta)
 [![image](https://github.com/TutaTamta/TutaTamta/assets/81257954/d004f22c-ee9a-41ea-82ea-f3aeb2ca3969)](https://github.com/TutaTamta)
 [<img src="https://github.com/TutaTamta/TutaTamta/assets/81257954/80db8639-54f3-4fdd-a270-8606bc2ae2a8" width=50% height=50%>](https://github.com/TutaTamta)
 
@@ -27,9 +27,9 @@
 ## **Actually, I have hobbies :octocat:**
 - :camera:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tutatamta?igshid=YzAwZjE1ZTI0Zg==) 
 - :tea: ***Tea flows through my veins***
-- :closed_book:
-- :bicyclist:
-- :musical_keyboard:
+- :closed_book: ***Poems are written by themselves ~~with my help~~***
+- :bicyclist: ***Sports should be in life***
+- :musical_keyboard: :sparkling_heart:
 - :video_game:  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198211430092/)
 - :art:
 ##
