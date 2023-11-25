@@ -26,12 +26,12 @@
 
 ~~I know it's not funny~~
 ## **Actually, I have hobbies :octocat:**
-- :camera:
+- :camera:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://insragram.com/tutatamta?igshid=YzAwZjE1ZTI0Zg==)
 - :tea:
 - :closed_book:
 - :bicyclist:
 - :musical_keyboard:
-- :video_game:
+- :video_game:  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198211430092/)
 - :art:
 ##
 
