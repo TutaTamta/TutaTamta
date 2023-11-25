@@ -10,7 +10,7 @@
 
 
 
-Skills: ***Nothing interesting...***
+## Skills: ***Nothing interesting...***
 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
@@ -24,14 +24,13 @@ Skills: ***Nothing interesting...***
 - ⚡ Fun fact: I like coffee with ginger 
 
 
-**Jokes**
+## **Jokes**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ~~I know it's not funny~~
 
-
-
+##
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TutaTamta)  
 
@@ -40,7 +39,6 @@ Skills: ***Nothing interesting...***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TutaTamta&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TutaTamta)  
-
-
+##
 > [!NOTE]
 > Я правда не понимаю, что происходит... Потом что-нибудь добавлю
