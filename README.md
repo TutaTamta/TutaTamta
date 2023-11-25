@@ -26,3 +26,6 @@ Skills: ***Nothing interesting...***
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TutaTamta)  
 
+
+> [!NOTE]
+> Я правда не понимаю, что происходит...
