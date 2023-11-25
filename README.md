@@ -7,6 +7,7 @@ Skills: Nothing interesting...
 - 🔭 I’m currently working on this page. 
 - ⚡ Fun fact: I like coffee with ginger 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TutaTamta)  
 
