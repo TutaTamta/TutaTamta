@@ -39,7 +39,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TutaTamta)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TutaTamta&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TutaTamta&show_icons=true&theme=radical)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TutaTamta)  
 ##
