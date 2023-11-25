@@ -1,7 +1,7 @@
 ![Mmm](header.png)
 # *Once upon a time I wanted to understand what was going on....*
 ![image](https://github.com/TutaTamta/TutaTamta/assets/81257954/d004f22c-ee9a-41ea-82ea-f3aeb2ca3969)
-![octocat-1700898808971](https://github.com/TutaTamta/TutaTamta/assets/81257954/80db8639-54f3-4fdd-a270-8606bc2ae2a8)
+<img src="https://github.com/TutaTamta/TutaTamta/assets/81257954/80db8639-54f3-4fdd-a270-8606bc2ae2a8" width=70% height=70%>
 
 > [!NOTE]
 > ~~Why am I here?~~
