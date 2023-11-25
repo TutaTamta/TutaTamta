@@ -23,7 +23,6 @@
 ## **Jokes**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ~~I know it's not funny~~
 ## **Actually, I have hobbies :octocat:**
 - :camera:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tutatamta?igshid=YzAwZjE1ZTI0Zg==) 
