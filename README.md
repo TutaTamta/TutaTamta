@@ -27,7 +27,7 @@
 ~~I know it's not funny~~
 ## **Actually, I have hobbies :octocat:**
 - :camera:  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tutatamta?igshid=YzAwZjE1ZTI0Zg==) 
-- :tea:
+- :tea: ***Tea flows through my veins***
 - :closed_book:
 - :bicyclist:
 - :musical_keyboard:
