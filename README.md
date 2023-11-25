@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is...
 #### Once upon a time I wanted to understand what was going on....
-~~Why am I here?~~
+![octocat-1700898808971](https://github.com/TutaTamta/TutaTamta/assets/81257954/80db8639-54f3-4fdd-a270-8606bc2ae2a8)
+
+> [!NOTE]
+> ~~Why am I here?~~
 
 Skills: ***Nothing interesting...***
 
