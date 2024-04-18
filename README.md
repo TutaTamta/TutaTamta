@@ -1,4 +1,4 @@
-[![image](https://github.com/TutaTamta/TutaTamta/assets/81257954/d004f22c-ee9a-41ea-82ea-f3aeb2ca3969)](https://github.com/TutaTamta)
+![github-header-image](https://github.com/TutaTamta/TutaTamta/assets/81257954/7f890e38-1f08-4978-833e-21ab62e2eb73)
 
 
 
