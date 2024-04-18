@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/TutaTamta/TutaTamta/assets/81257954/7f890e38-1f08-4978-833e-21ab62e2eb73)
 
-
+> Maybe I don't have much to show right now, but that doesn't mean it's a dead end.
 
 
 
@@ -11,13 +11,10 @@
 
 
 - 🔭 I’m currently working on this page. 
-- ⚡ Fun fact: I like coffee with ginger 
+- ⚡ Fun fact: I like coffee with ginger
+- 🍕 Started learning Italian
 
 
-## **Jokes**
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-~~I know it's not funny~~
 ## **Actually, I have hobbies :octocat:**
 - :tea: ***Tea flows through my veins***
 - :closed_book: ***Poems are written by themselves ~~with my help~~***
@@ -32,8 +29,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TutaTamta)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TutaTamta&show_icons=true&theme=radical)  
+## **Jokes**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TutaTamta)  
-##
-> [!NOTE]
-> Я правда не понимаю, что происходит... Потом что-нибудь добавлю
+![Jokes Card](https://readme-jokes.vercel.app/api)
+~~I know it's not funny~~
+
